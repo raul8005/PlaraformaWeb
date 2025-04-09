@@ -1,3 +1,4 @@
 # Materias Pasadas
 
-Programación
+Programación.  
+Humanismo.  
